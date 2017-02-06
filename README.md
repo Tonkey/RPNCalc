@@ -1,6 +1,6 @@
 # RPNCalc
 
-Author: Nicklas Molving.
+###### Author: Nicklas Molving.
 
 This project was created for a school assignment in functional programming.
 The project is a Reverse Polish Notation Calculator written in Java.
