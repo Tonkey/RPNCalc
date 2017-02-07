@@ -25,7 +25,7 @@ Here you should run the project with java -jar RPNCalc.jar
 
 ## ACCEPTED COMMANDS:
 Once the program is running you can enter the following;
-- positive numbers and math operators. OBS! this project only supports + - * /
+- positive whole numbers and math operators. OBS! this project only supports + - * /
 - input to the program should be written as such: 3 4 + (3 + 4) if only a math operator is entered, the program wil try
 to pop the last to numbers pushed to the stack, if not enough numbers are available, an error message will be printed.
 - hit enter/return on you keyboard to print the numbers currently in the stack.
